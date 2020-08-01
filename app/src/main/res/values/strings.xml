@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pingo</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="firebaseDatabase">"https://pingo-5aed0.firebaseio.com/</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere, enim eget malesuada semper, quam diam porttitor lacus, quis facilisis nunc neque in mauris. Aliquam non nisl commodo, sodales turpis eget, feugiat felis. Phasellus dapibus dignissim nunc sed efficitur. Donec iaculis ligula enim, sit amet porttitor metus eleifend sed. Pellentesque id efficitur metus. Proin et lectus ante. Duis ut libero id nunc vestibulum congue in in tellus. Vestibulum vehicula maximus facilisis. Vestibulum consequat erat condimentum, bibendum nunc sed, scelerisque lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vehicula tellus at dolor bibendum, eleifend commodo mauris iaculis. Cras massa lectus, congue eget ornare ac, volutpat a nibh. Maecenas luctus tincidunt sollicitudin.</string>
+</resources>

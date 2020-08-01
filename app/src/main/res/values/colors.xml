@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorChatBadge">#FB3F31</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlue">#25BBFF</color>
+    <color name="colorGray">#F7F8F5</color>
+    <color name="colorLightPurple">#F6F0FF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorYellow">#FFC107</color>
+    <color name="colorPink">#FAB0F3</color>
+    <color name="colorLightBlue">#7980C3</color>
+</resources>
